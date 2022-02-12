@@ -42,7 +42,9 @@ p{
 .nav-link{
   font-size:1.2rem;
   font-family: "Montserrat-Light";
+  color:#fff;
 }
+
 .download-button{
   margin: 5% 3% 5% 0;
 }
@@ -122,9 +124,7 @@ font-weight: bold;
   background-color: #ff4c68;
   padding: 7% 15%;
 }
-.cta-button{
 
-}
 .cta-h3{
   padding: 7%;
   color:#fff;
@@ -133,10 +133,13 @@ font-weight: bold;
 }
 /* footer section */
 #footer{
-  padding: 3% 2%;
+  padding: 7% 15%;
   text-align: center;
   background-color: #fff;
 }
 .social-logo{
-  margin: 1%;
+  margin: 15px 20px;
+}
+.cta-icon {
+  margin: 5px;
 }
